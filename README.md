@@ -1,5 +1,12 @@
-## Hi there 👋
-
+### 👋🏻 Hello! Nice to meet you!  
+```py
+class Me:
+  def __init__(self):
+      self.name = "Sriram"
+      self.description = "Student at University of Texas at Dallas"
+      self.languages = ["Python", "Javascript", "Java", "C++"]
+      self.frameworks = ["next.js"]
+```
 <!--
 **scs03/scs03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
