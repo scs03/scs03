@@ -2,7 +2,7 @@
 ```py
 class Me:
   def __init__(self):
-      self.name = "Sriram"
+      self.name = "Sriram Sendhil"
       self.description = "Student at University of Texas at Dallas"
       self.languages = ["Python", "Javascript", "Java", "C++"]
       self.frameworks = ["next.js"]
